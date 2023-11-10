@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 sup2 edited-nb2
-=======
 sup2 edited-nb
->>>>>>> new_branch
