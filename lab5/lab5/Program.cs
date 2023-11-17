@@ -13,6 +13,7 @@ namespace lab5 {
             }
 
             Console.WriteLine("Hello world");
+            Console.WriteLine("Hello again");
         }
     }
 }
