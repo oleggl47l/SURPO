@@ -11,6 +11,8 @@ namespace lab5 {
                 Console.WriteLine($"Iteration {i}");
                 if (i % 2  == 0) Console.WriteLine($"\ni = {i} and result of division = {i / 0}\n");
             }
+
+            Console.WriteLine("Hello world");
         }
     }
 }
