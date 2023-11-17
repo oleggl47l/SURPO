@@ -9,6 +9,7 @@ namespace lab5 {
         static void Main(string[] args) {
             for (int i = 0; i < 5; i++) { 
                 Console.WriteLine($"Iteration {i}");
+                if (i % 2  == 0) Console.WriteLine($"\ni = {i} and result of division = {i / 2}\n");
             }
         }
     }
